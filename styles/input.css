@@ -1,0 +1,26 @@
+/* Input Feild with Label */
+
+
+/* primary form label */
+
+.primary-form-label{ 
+  color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.primary-form-des, .secondary-form-des{
+  color: #cdd2dc !important;
+  font-weight: 400 !important;
+  font-size: 12px;
+  display: block;
+  margin: 2px 0 10px 0;
+}
+
+
+/* primary form input */
+
+.primary-form-input{
+  height: 60px;
+  padding: 20px;
+}
