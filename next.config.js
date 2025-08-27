@@ -1,4 +1,4 @@
-const withTM = require('next-transpile-modules')(['rc-motion', 
+const withTM = import('next-transpile-modules')(['rc-motion', 
   'rc-util',
   'rc-field-form',
   'rc-dialog',
